@@ -4,3 +4,6 @@
 * Sign in using Google account
 * Ability to send images
 * Ability to receive notifications
+
+## Screenshot of the application-
+![](images/FriendlyChat)
