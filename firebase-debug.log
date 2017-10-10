@@ -1,0 +1,36 @@
+[debug] [2017-10-10T08:42:14.268Z] ----------------------------------------------------------------------
+[debug] [2017-10-10T08:42:14.268Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\keval\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-10-10T08:42:14.268Z] CLI Version:   3.13.1
+[debug] [2017-10-10T08:42:14.268Z] Platform:      win32
+[debug] [2017-10-10T08:42:14.268Z] Node Version:  v8.6.0
+[debug] [2017-10-10T08:42:14.268Z] Time:          Tue Oct 10 2017 04:42:14 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-10-10T08:42:14.268Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-10T08:42:14.284Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-10T08:42:14.284Z] > authorizing via signed-in user
+[debug] [2017-10-10T08:42:14.284Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-10-10T08:42:14.284Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/g70ybbkruSf97c00ZQw5w4ESpzhqT565UYe8awU6yQw',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Tue Oct 10 2017 04:42:14 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-10-10T08:42:14.500Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-10T08:42:14.615Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendly-chat-fea3a  
+ Tue Oct 10 2017 04:42:14 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-10-10T08:42:15.115Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-10T08:42:15.115Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendly-chat-fea3a/tokens  
+ Tue Oct 10 2017 04:42:15 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-10-10T08:42:15.550Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\keval\Downloads\web'...
+[info] 
+[debug] [2017-10-10T08:42:15.553Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendly-chat-fea3a  
+ Tue Oct 10 2017 04:42:15 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-10-10T08:42:15.958Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-10T08:42:15.958Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/263744269385/clients/_:getWebAppConfig  
+ Tue Oct 10 2017 04:42:15 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-10-10T08:42:16.461Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
