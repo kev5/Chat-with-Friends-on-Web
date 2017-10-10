@@ -6,4 +6,4 @@
 * Ability to receive notifications
 
 ## Screenshot of the application-
-![](images/FriendlyChat)
+![](images/FriendlyChat.PNG)
