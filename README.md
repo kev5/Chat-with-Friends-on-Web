@@ -19,7 +19,7 @@ The test cases carried out manually and their results are in the following excel
 
 ## Automated Testing
 
-The automated tests were carried out using the ![CrossBrowserTesting App](https://app.crossbrowsertesting.com/login). The script for automated test on Windows 10 Chrome is given in ![unittest.py](https://github.com/kev5/Chat-with-Friends-on-Web/blob/master/unittest.py).
+The automated tests were carried out using the ![CrossBrowserTesting](https://crossbrowsertesting.com/). The script for automated test on Windows 10 Chrome is given in ![unittest.py](https://github.com/kev5/Chat-with-Friends-on-Web/blob/master/unittest.py).
 
 The automated test results were as follows-
 
