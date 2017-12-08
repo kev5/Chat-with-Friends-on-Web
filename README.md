@@ -9,4 +9,4 @@
 https://friendly-chat-fea3a.firebaseapp.com/
 
 ### Screenshot of the application-
-![](images/FriendlyChat.PNG)
+![](images/FrieChat.PNG)
